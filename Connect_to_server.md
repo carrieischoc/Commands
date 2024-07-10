@@ -19,5 +19,12 @@ User ba8ma4
 
 > ssh nlproc # new command for ssh connection
 
+### Set the locales Language 
+> nano .bashrc # ask the admin host to add your language to the global locale -a
+```
+LANG="en_US.utf8"
+export LANG
+```
+> 
 
 
