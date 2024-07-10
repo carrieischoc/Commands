@@ -7,7 +7,7 @@
 ### Create a RSA key
 > ssh-keygen -t rsa # get the public key: cat ~/.ssh/id_rsa.pub
 ### Login to the group server
-> ssh ba8ma4@compute-01.nlproc.uni-bamberg.de # username is your BA number
+> ssh BA@compute-01.nlproc.uni-bamberg.de # username is your BA number
 
 > nano ~/.ssh/config # back to local and write the config file to rename the ssh connection to the server
 
