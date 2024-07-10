@@ -14,7 +14,7 @@
 ```
 Host nlproc
 Hostname compute-01.nlproc.uni-bamberg.de
-User ba8ma4
+User BA
 ```
 
 > ssh nlproc # new command for ssh connection
