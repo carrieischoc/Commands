@@ -5,7 +5,7 @@
 
 > brew upgrade # update packages installed with brew including openssh
 ### Create a RSA key
-> ssh-keygen -t rsa # get the public key: cat ~/.ssh/id_rsa.pub
+> ssh-keygen -t rsa # get the public key: cat ~/.ssh/id_rsa.pub, copy all and sent to It-service
 ### Login to the group server
 > ssh BA@Server_Address # username is your BA number
 
