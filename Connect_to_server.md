@@ -20,10 +20,12 @@ User BA
 > ssh nlproc # new command for ssh connection
 
 ### Set the locales Language 
-> nano .bashrc # ask the admin host to add your language to the global locale -a
+> nano .bashrc 
 ```
 LANG="en_US.utf8"
 export LANG
+# we already have the English language and it might help when you have UnicodeEncodeError for anaconda
+# ask the admin host to add your language to the global locale -a
 ```
 > 
 
